@@ -30,8 +30,7 @@ I obtained my M.A.Sc. (GPA 4.00/4.00) from the [ECE Department,](https://www.ece
 
 ## Preprint 
 
-- **Shuvomoy Das Gupta**, Bartolomeo Stellato, and Bart Van Parys, “[Exterior-point Operator Splitting for Nonconvex Learning](https://arxiv.org/abs/2011.04552)”, 2020. [[pdf](http://www.optimization-online.org/DB_FILE/2020/11/8099.pdf)] [[NExOS.jl Julia package](https://github.com/Shuvomoy/NExOS.jl)][[INFORMS 2020 presentation](https://shuvomoy.github.io/site/Presentations/INFORMS_Annual_Meeting_2020/INFORMS_2020_presentation.sozi.html#frame4974)]
-
+- **Shuvomoy Das Gupta**, Bartolomeo Stellato, and Bart Van Parys, “[Exterior-point Operator Splitting for Nonconvex Learning](https://arxiv.org/abs/2011.04552)”, 2020. [[pdf](http://www.optimization-online.org/DB_FILE/2020/11/8099.pdf)] [[NExOS.jl Julia package](https://github.com/Shuvomoy/NExOS.jl)][[INFORMS 2020 Presentation](https://shuvomoy.github.io/site/Presentations/INFORMS_Annual_Meeting_2020/INFORMS_2020_presentation_sozi.html)]
 
 ## Peer-reviewed Papers
 
@@ -50,12 +49,11 @@ I obtained my M.A.Sc. (GPA 4.00/4.00) from the [ECE Department,](https://www.ece
 
 ## Talks 
 
-- [Exterior-point Operator Splitting for Nonconvex Learning](https://shuvomoy.github.io/site/Presentations/INFORMS_Annual_Meeting_2020/INFORMS_2020_presentation.sozi.html)
-
+- [Exterior-point Operator Splitting for Nonconvex Learning](https://shuvomoy.github.io/site/Presentations/INFORMS_Annual_Meeting_2020/INFORMS_2020_presentation_sozi.html)
   - Seoul National University, November 17, 2020 (talk given to Professor [Ernest Ryu](http://www.math.snu.ac.kr/~ernestryu/)'s research group)
   - INFORMS Annual Meeting, November 10, 2020
   - MIT LIDS student conference, January 2021
-
+  
 - [On seeking efficient Pareto optimal points in multi-player minimum cost flow problems
   ](https://shuvomoy.github.io/site/Presentations/LIDS_2020_student_conference/LIDS_2020_student_conference.pdf)
 
@@ -70,8 +68,7 @@ I obtained my M.A.Sc. (GPA 4.00/4.00) from the [ECE Department,](https://www.ece
   - IEEE Conference on Decision and Control, December 2016
 
 - [An Optimization Model to Utilize Regenerative Braking Energy in a Railway Network](https://shuvomoy.github.io/site/Papers/ACC_presentation.svg)
-
-  - American Control Conference, July 2015
+- American Control Conference, July 2015
 
 ## Teaching 
 
@@ -88,7 +85,7 @@ I obtained my M.A.Sc. (GPA 4.00/4.00) from the [ECE Department,](https://www.ece
 
 ## MASc Thesis
 
-[Optimization Models for Energy-efficient Railway Timetables.](https://tspace.library.utoronto.ca/handle/1807/74584) (Grade: A+) [[pdf](https://shuvomoy.github.io/site/Papers/Optimization_Models_for_Energy_efficient_Railway_Timetables_MASc_Shuvo.pdf)] [[html presentation](https://shuvomoy.github.io/site/Papers/MASC-thesis-presentation.sozi.html)]
+[Optimization Models for Energy-efficient Railway Timetables.](https://tspace.library.utoronto.ca/handle/1807/74584) (Grade: A+) [[pdf](https://shuvomoy.github.io/site/Papers/Optimization_Models_for_Energy_efficient_Railway_Timetables_MASc_Shuvo.pdf)] [[html presentation](https://shuvomoy.github.io/site/Papers/MASC-thesis-presentation_sozi.html)]
 
 ## Miscellaneous
 
