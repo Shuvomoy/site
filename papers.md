@@ -6,7 +6,7 @@
 
 - **Shuvomoy Das Gupta**, Bartolomeo Stellato, and Bart Van Parys, “[Exterior-point Operator Splitting for Nonconvex Learning](https://arxiv.org/abs/2011.04552)”, 2020. [[pdf](http://www.optimization-online.org/DB_FILE/2020/11/8099.pdf)] [[NExOS.jl Julia package](https://github.com/Shuvomoy/NExOS.jl)] [[INFORMS 2020 Presentation](/assets/Sozi_presentations/INFORMS_Annual_Meeting_2020_presentation.html)]
 
-~~~
+  ~~~
 <ul>
 <li>
 <small>
@@ -43,7 +43,7 @@ solutions very quickly and is competitive with specialized algorithms.
 
 - **Shuvomoy Das Gupta** and Lacra Pavel, “[On seeking efficient Pareto optimal points in multi-player minimum cost flow problems with application to transportation systems](https://link.springer.com/article/10.1007/s10898-019-00750-9)”, in the *Journal of Global Optimization* 74 (2019): 523-548. [[pdf](https://shuvomoy.github.io/site/Papers/Journal_of_Global_Optimization_19.pdf)] [[presentation](https://shuvomoy.github.io/site/Presentations/LIDS_2020_student_conference/LIDS_2020_student_conference.pdf)]
 
-~~~
+  ~~~
 <ul>
 <li>
 <small>
@@ -58,7 +58,7 @@ In this paper, we propose a multi-player extension of the minimum cost flow prob
 
 - **Shuvomoy Das Gupta**, “[On Convergence of Heuristics Based on Douglas-Rachford Splitting and ADMM to Minimize Convex Functions over Nonconvex Sets](https://ieeexplore.ieee.org/document/8636076)”, in the *proceedings of the 56th Allerton Conference on Communication, Control, and Computing*, University of Illinois at Urbana-Champaign, IL, USA, October 2018. [[pdf](https://shuvomoy.github.io/site/Papers/Allerton_2018.pdf)] [[presentation](https://shuvomoy.github.io/site/Presentations/Allerton_2018_Presentation/Allerton_2018_presentation_final.pdf)]
 
-~~~
+  ~~~
 <ul>
 <li>
 <small>
@@ -74,7 +74,7 @@ Recently, heuristics based on the Douglas-Rachford splitting algorithm and the a
 
 - **Shuvomoy Das Gupta** and Lacra Pavel, “[Multi-player minimum cost flow problems with nonconvex costs and integer flows](http://ieeexplore.ieee.org/document/7799446/)”, in the *proceedings of the 55th IEEE Conference on Decision and Control*, Las Vegas, USA, December 12-14, 2016. [[pdf](https://shuvomoy.github.io/site/Papers/Multi-player_minimum_cost_flow_problems_with_nonconvex_costs_and_integer_flows.pdf)] [[longer version with proofs](https://shuvomoy.github.io/site/Papers/CDC_2016_manuscript_Pareto_opt_with_proofs.pdf)] [[presentation](https://shuvomoy.github.io/site/Papers/CDC_2016_presentation.pdf)]
 
-~~~
+  ~~~
 <ul>
 <li>
 <small>
@@ -90,7 +90,7 @@ In this paper, we consider a variant of the well known minimum cost flow problem
 
 - **Shuvomoy Das Gupta**, J. Kevin Tobin, and Lacra Pavel, “[A two-step linear programming model for energy-efficient timetables in metro railway networks](http://www.sciencedirect.com/science/article/pii/S0191261516304830)”, in *Transportation Research Part B: Methodological* 93 (2016): 57–74. [[pdf](https://shuvomoy.github.io/site/Papers/A_two_step_linear_programming_model_for_energy_efficient_timetables_in_metro_railway_networks.pdf)] 
 
-~~~
+  ~~~
 <ul>
 <li>
 <small>
@@ -102,7 +102,7 @@ In this paper, we propose a novel two-step linear optimization model to calculat
 </ul>
 ~~~
 
-~~~
+  ~~~
 <ul>
 <li>
 <small>
@@ -125,7 +125,7 @@ thesis</a>.
 
 - **Shuvomoy Das Gupta**, Lacra Pavel, and J. Kevin Tobin, “[An Optimization Model to Utilize Regenerative Braking Energy in a Railway Network](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7172268)”, in the *proceedings of 2015 American Control Conference (ACC)*, Chicago, IL, USA, July 2015. [[pdf](https://shuvomoy.github.io/site/Papers/An_Optimization_Model_to_Utilize_Regenerative_Braking_Energy_in_a_Railway_Network.pdf)] [[longer version with proofs](https://arxiv.org/pdf/1507.01646.pdf)] [[presentation](https://shuvomoy.github.io/site/Papers/ACC_presentation.svg)] 
 
-~~~
+  ~~~
 <ul>
 <li>
 <small>
@@ -137,7 +137,7 @@ In this paper, we study the railway timetabling problem to utilize regenerative 
 </ul>
 ~~~
 
-~~~
+  ~~~
 <ul>
 <li>
 <small>
