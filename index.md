@@ -30,7 +30,7 @@ I obtained my M.A.Sc. (GPA 4.00/4.00) from the [ECE Department,](https://www.ece
 
 ## Preprint 
 
-- **Shuvomoy Das Gupta**, Bartolomeo Stellato, and Bart Van Parys, “[Exterior-point Operator Splitting for Nonconvex Learning](https://arxiv.org/abs/2011.04552)”, 2020. [[pdf](http://www.optimization-online.org/DB_FILE/2020/11/8099.pdf)] [[NExOS.jl Julia package](https://github.com/Shuvomoy/NExOS.jl)][[INFORMS 2020 Presentation](https://shuvomoy.github.io/site/Presentations/Sozi_presentations/INFORMS_Annual_Meeting_2020/index.html)]
+- **Shuvomoy Das Gupta**, Bartolomeo Stellato, and Bart Van Parys, “[Exterior-point Operator Splitting for Nonconvex Learning](https://arxiv.org/abs/2011.04552)”, 2020. [[pdf](http://www.optimization-online.org/DB_FILE/2020/11/8099.pdf)] [[NExOS.jl Julia package](https://github.com/Shuvomoy/NExOS.jl)] [[INFORMS 2020 Presentation](/assets/Sozi_presentations/INFORMS_Annual_Meeting_2020_presentation.html)]
 
 ## Peer-reviewed Papers
 
@@ -49,26 +49,25 @@ I obtained my M.A.Sc. (GPA 4.00/4.00) from the [ECE Department,](https://www.ece
 
 ## Talks 
 
-- Exterior-point Operator Splitting for Nonconvex Learning [Slides](https://shuvomoy.github.io/site/Presentations/Sozi_presentations/INFORMS_Annual_Meeting_2020/index.html)
+- Exterior-point Operator Splitting for Nonconvex Learning [[Slides](/assets/Sozi_presentations/INFORMS_Annual_Meeting_2020_presentation.html)]
   - Seoul National University, November 17, 2020 (talk given to Professor [Ernest Ryu](http://www.math.snu.ac.kr/~ernestryu/)'s research group)
   - INFORMS Annual Meeting, November 10, 2020
   - MIT LIDS student conference, January 2021
   
-- [On seeking efficient Pareto optimal points in multi-player minimum cost flow problems
-  ](https://shuvomoy.github.io/site/Presentations/LIDS_2020_student_conference/LIDS_2020_student_conference.pdf)
+- On seeking efficient Pareto optimal points in multi-player minimum cost flow problems [[Slides](https://shuvomoy.github.io/site/Presentations/LIDS_2020_student_conference/LIDS_2020_student_conference.pdf)]
 
   - MIT LIDS student conference, January 2020
 
-- [On Convergence of Heuristics Based on Douglas-Rachford Splitting and ADMM to Minimize Convex Functions over Nonconvex Sets](https://shuvomoy.github.io/site/Presentations/Allerton_2018_Presentation/Allerton_2018_presentation_final.pdf)
+- On Convergence of Heuristics Based on Douglas-Rachford Splitting and ADMM to Minimize Convex Functions over Nonconvex Sets [[Slides](https://shuvomoy.github.io/site/Presentations/Allerton_2018_Presentation/Allerton_2018_presentation_final.pdf)]
 
   - Allerton Conference on Communication, Control, and Computing, October 2018
 
-- [Multi-player minimum cost flow problems with nonconvex costs and integer flows](https://shuvomoy.github.io/site/Papers/CDC_2016_presentation.pdf)
+- Multi-player minimum cost flow problems with nonconvex costs and integer flows [[Slides](https://shuvomoy.github.io/site/Papers/CDC_2016_presentation.pdf)]
 
   - IEEE Conference on Decision and Control, December 2016
 
-- [An Optimization Model to Utilize Regenerative Braking Energy in a Railway Network](https://shuvomoy.github.io/site/Papers/ACC_presentation.svg)
-- American Control Conference, July 2015
+- An Optimization Model to Utilize Regenerative Braking Energy in a Railway Network [[Slides](https://shuvomoy.github.io/site/Papers/ACC_presentation.svg)]
+  - American Control Conference, July 2015
 
 ## Teaching 
 
@@ -79,14 +78,10 @@ I obtained my M.A.Sc. (GPA 4.00/4.00) from the [ECE Department,](https://www.ece
 
 ## Software
 
-* `NExOS.jl` ([github]())
-
+* `NExOS.jl` [[github repo](https://github.com/Shuvomoy/NExOS.jl)]
 
 
 ## MASc Thesis
 
-[Optimization Models for Energy-efficient Railway Timetables.](https://tspace.library.utoronto.ca/handle/1807/74584) (Grade: A+) [[pdf](https://shuvomoy.github.io/site/Papers/Optimization_Models_for_Energy_efficient_Railway_Timetables_MASc_Shuvo.pdf)] [[html presentation](https://shuvomoy.github.io/site/Presentations/Sozi_presentations/MASc_Presentation/index.html)]
+[Optimization Models for Energy-efficient Railway Timetables.](https://tspace.library.utoronto.ca/handle/1807/74584) (Grade: A+) [[pdf](https://shuvomoy.github.io/site/Papers/Optimization_Models_for_Energy_efficient_Railway_Timetables_MASc_Shuvo.pdf)] [[html presentation](/assets/Sozi_presentations/MASc_Presentation.html)]
 
-## Miscellaneous
-
-[Notes on Splitting Algorithms](https://shuvomoy.github.io/site/splitting_algorithms.html)
