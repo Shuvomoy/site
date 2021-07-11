@@ -32,12 +32,6 @@
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>shuvomoy.github.io/site/Presentations/INFORMS_Annual_Meeting_2020/INFORMS_2020_presentation.sozi</loc>
-    <lastmod>2021-07-11</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
     <loc>shuvomoy.github.io/site/Notes/Notes_on_cvx_analysis_and_monotone_operator_methods/</loc>
     <lastmod>2021-07-11</lastmod>
     <changefreq>monthly</changefreq>
@@ -50,13 +44,19 @@
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>shuvomoy.github.io/site/Papers/MASC-thesis-presentation.sozi</loc>
+    <loc>shuvomoy.github.io/site/Miscellaneous/Damek_Davis_On_the_Design_and_Analysis_of_Operator_Splitting/</loc>
     <lastmod>2021-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>shuvomoy.github.io/site/Miscellaneous/Damek_Davis_On_the_Design_and_Analysis_of_Operator_Splitting/</loc>
+    <loc>shuvomoy.github.io/site/Papers/MASC-thesis-presentation_sozi/</loc>
+    <lastmod>2021-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>shuvomoy.github.io/site/Presentations/INFORMS_Annual_Meeting_2020/INFORMS_2020_presentation_sozi/</loc>
     <lastmod>2021-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
