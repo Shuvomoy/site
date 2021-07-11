@@ -4,7 +4,7 @@
 
 ## Preprint 
 
-- **Shuvomoy Das Gupta**, Bartolomeo Stellato, and Bart Van Parys, “[Exterior-point Operator Splitting for Nonconvex Learning](https://arxiv.org/abs/2011.04552)”, 2020. [[pdf](http://www.optimization-online.org/DB_FILE/2020/11/8099.pdf)] [[NExOS.jl Julia package](https://github.com/Shuvomoy/NExOS.jl)][[INFORMS 2020 Presentation](https://shuvomoy.github.io/site/Presentations/INFORMS_Annual_Meeting_2020/INFORMS_2020_presentation_sozi.html)]
+- **Shuvomoy Das Gupta**, Bartolomeo Stellato, and Bart Van Parys, “[Exterior-point Operator Splitting for Nonconvex Learning](https://arxiv.org/abs/2011.04552)”, 2020. [[pdf](http://www.optimization-online.org/DB_FILE/2020/11/8099.pdf)] [[NExOS.jl Julia package](https://github.com/Shuvomoy/NExOS.jl)][[INFORMS 2020 Presentation](https://shuvomoy.github.io/site/Presentations/Sozi_presentations/INFORMS_Annual_Meeting_2020/index.html)]
 
 ~~~
 <ul>
