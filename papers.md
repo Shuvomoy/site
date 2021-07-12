@@ -114,7 +114,7 @@ to all of their customers as a product and has been deployed around the
 world in cities such as London, Paris, Hong Kong, Singapore, Kuala
 Lumpur, Shanghai, Beijing, San Francisco, New York and Vancouver. For
 more information regarding the implementation, please see my <a
- href="Papers/Optimization_Models_for_Energy_efficient_Railway_Timetables_MASc_Shuvo.pdf">M.A.Sc.
+ href="https://shuvomoy.github.io/site/Papers/Optimization_Models_for_Energy_efficient_Railway_Timetables_MASc_Shuvo.pdf">M.A.Sc.
 thesis</a>.
 <br />
 </small>
