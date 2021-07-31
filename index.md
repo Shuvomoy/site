@@ -46,8 +46,10 @@ I obtained my M.A.Sc. (GPA 4.00/4.00) from the [ECE Department,](https://www.ece
 
 - **Shuvomoy Das Gupta**, Lacra Pavel, and J. Kevin Tobin, “[An Optimization Model to Utilize Regenerative Braking Energy in a Railway Network](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7172268)”, in the *proceedings of 2015 American Control Conference (ACC)*, Chicago, IL, USA, July 2015. [[pdf](https://shuvomoy.github.io/site/Papers/An_Optimization_Model_to_Utilize_Regenerative_Braking_Energy_in_a_Railway_Network.pdf)] [[longer version with proofs](https://arxiv.org/pdf/1507.01646.pdf)] [[presentation](https://shuvomoy.github.io/site/Papers/ACC_presentation.svg)] 
 
+## Talks
 
-## Talks 
+* `NExOS.jl`  for Nonconvex Exterior-point Operator Splitting [[Youtube video](https://www.youtube.com/watch?v=SWQnAQmeVUg&t=99s&ab_channel=TheJuliaProgrammingLanguage)]
+  *  [Juliacon 2021](https://juliacon.org/2021/) 
 
 - Exterior-point Operator Splitting for Nonconvex Learning [[Slides](/assets/Sozi_presentations/INFORMS_Annual_Meeting_2020_presentation.html)]
   - Seoul National University, November 17, 2020 (talk given to Professor [Ernest Ryu](http://www.math.snu.ac.kr/~ernestryu/)'s research group)
