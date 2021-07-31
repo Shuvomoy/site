@@ -48,7 +48,7 @@ I obtained my M.A.Sc. (GPA 4.00/4.00) from the [ECE Department,](https://www.ece
 
 ## Talks
 
-* `NExOS.jl`  for Nonconvex Exterior-point Operator Splitting [[Youtube video](https://www.youtube.com/watch?v=SWQnAQmeVUg&t=99s&ab_channel=TheJuliaProgrammingLanguage)]
+* `NExOS.jl`  for Nonconvex Exterior-point Operator Splitting [[Youtube video](https://www.youtube.com/watch?v=SWQnAQmeVUg&ab_channel=TheJuliaProgrammingLanguage)]
   *  [Juliacon 2021](https://juliacon.org/2021/) 
 
 - Exterior-point Operator Splitting for Nonconvex Learning [[Slides](/assets/Sozi_presentations/INFORMS_Annual_Meeting_2020_presentation.html)]
