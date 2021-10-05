@@ -71,12 +71,24 @@ I obtained my M.A.Sc. (GPA 4.00/4.00) from the [ECE Department,](https://www.ece
 - An Optimization Model to Utilize Regenerative Braking Energy in a Railway Network [[Slides](https://shuvomoy.github.io/site/Papers/ACC_presentation.svg)]
   - American Control Conference, July 2015
 
-## Teaching 
+## Teaching
 
 - [Optimization Methods](https://shuvomoy.github.io/site/Teaching/optimization_methods_syllabus2020.pdf) (Fall 2020)
 
   - Teaching assistant for a course that aims to provide masters students with a unified overview of the main algorithms and areas of application in optimization.
   - Duties: Assisting students, leading recitations, writing and marking assignments and exams.
+
+## Cumulative GPA
+5.00/5.00
+
+## Courses taken
+* [6.251] Introduction to Mathematical Programming	
+* [6.436] Fundamentals of Probability
+* [6.252] Nonlinear Optimization
+* [6.881] Optimization for Machine Learning
+* [9.521] Mathematical Statistics
+* [6.860] Statistical Learning Theory
+* [18.456] Algebraic Techniques and Semidefinite Optimization
 
 ## Software
 
