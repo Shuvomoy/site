@@ -1,5 +1,3 @@
-\enabletheorems
-
 @def title = "Miscellaneous"
 
 # Shuvomoy Das Gupta 
@@ -66,5 +64,5 @@ These are my handwritten notes on monotone operator theory and operator splittin
 
 
 
-\theoremscripts
+
 
