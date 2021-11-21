@@ -1,8 +1,13 @@
+\enabletheorems
+
 @def title = "Miscellaneous"
 
 # Shuvomoy Das Gupta 
 
 ## Notes on monotone operator theory
+
+\begin{dropdown}{Click to expand}
+
 These are my handwritten notes on monotone operator theory and operator splitting based on [Convex Analysis and Monotone Operator Theory in Hilbert Spaces by  Bauschke and Combettes](https://link.springer.com/book/10.1007/978-1-4419-9467-7)
 
 
@@ -62,7 +67,8 @@ These are my handwritten notes on monotone operator theory and operator splittin
 
 - [Chapter 29. Best Approximation Algorithms](https://shuvomoy.github.io/site/Miscellaneous/Notes_Monotone_Operator_Splitting/Chapter_29._Best_Approximation_Algorithms.pdf)
 
+\end{dropdown}
 
-
+\theoremscripts
 
 
