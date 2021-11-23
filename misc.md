@@ -4,7 +4,7 @@
 
 # Shuvomoy Das Gupta 
 
-\begin{dropdown}{💎 Notes on monotone operator theory}
+\begin{dropdown}{Notes on monotone operator theory}
 
 These are my handwritten notes on monotone operator theory and operator splitting based on [Convex Analysis and Monotone Operator Theory in Hilbert Spaces by  Bauschke and Combettes](https://link.springer.com/book/10.1007/978-1-4419-9467-7)
 
@@ -68,5 +68,4 @@ These are my handwritten notes on monotone operator theory and operator splittin
 \end{dropdown}
 
 \theoremscripts
-
 
