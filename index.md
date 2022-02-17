@@ -73,8 +73,9 @@ I obtained my M.A.Sc. (GPA 4.00/4.00) from the [ECE Department,](https://www.ece
 
 ## Teaching
 
-- [Optimization Methods](https://shuvomoy.github.io/site/Teaching/optimization_methods_syllabus2020.pdf) (Fall 2020)
+- 15.S08: Optimization of Energy Systems (Spring 2022)
 
+- [15.093: Optimization Methods](https://shuvomoy.github.io/site/Teaching/optimization_methods_syllabus2020.pdf) (Fall 2020)
   - Teaching assistant for a course that aims to provide masters students with a unified overview of the main algorithms and areas of application in optimization.
   - Duties: Assisting students, leading recitations, writing and marking assignments and exams.
 
