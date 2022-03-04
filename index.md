@@ -28,11 +28,9 @@ Hello world! I am a third year Ph.D. student at the [Operations Research Center]
 
 I obtained my M.A.Sc. (GPA 4.00/4.00) from the [ECE Department,](https://www.ece.utoronto.ca/) [University of Toronto](https://www.utoronto.ca/) in 2016. After that, I worked as a researcher at the Research & Technology Department of [Thales Canada](https://www.thalesgroup.com/en/americas/canada) for more than two and a half years. My [M.A.Sc. research work](https://www.sciencedirect.com/science/article/pii/S0191261516304830) on optimization models to compute energy-efficient railway timetables has been integrated with the largest installed base of communication based train control systems worldwide. Previously, I obtained my B.Sc. in Electrical and Electronic Engineering from [Bangladesh University of Engineering and Technology](http://www.buet.ac.bd/).
 
-## Preprint 
+## Papers
 
-- **Shuvomoy Das Gupta**, Bartolomeo Stellato, and Bart Van Parys, “[Exterior-point Optimization for Nonconvex Learning](https://arxiv.org/abs/2011.04552)”, 2020. [[pdf](http://www.optimization-online.org/DB_FILE/2020/11/8099.pdf)] [[NExOS.jl Julia package](https://github.com/Shuvomoy/NExOS.jl)] [[INFORMS 2020 Presentation](/assets/Sozi_presentations/INFORMS_Annual_Meeting_2020_presentation.html)]
-
-## Peer-reviewed Papers
+* **Shuvomoy Das Gupta**, Bartolomeo Stellato, and Bart Van Parys, “[Exterior-point Optimization for Nonconvex Learning](https://arxiv.org/abs/2011.04552)”, 2020. [[pdf](http://www.optimization-online.org/DB_FILE/2020/11/8099.pdf)] [[NExOS.jl Julia package](https://github.com/Shuvomoy/NExOS.jl)] [[INFORMS 2020 Presentation](/assets/Sozi_presentations/INFORMS_Annual_Meeting_2020_presentation.html)]
 
 - **Shuvomoy Das Gupta** and Lacra Pavel, “[On seeking efficient Pareto optimal points in multi-player minimum cost flow problems with application to transportation systems](https://link.springer.com/article/10.1007/s10898-019-00750-9)”, in the *Journal of Global Optimization* 74 (2019): 523-548. [[pdf](https://shuvomoy.github.io/site/Papers/Journal_of_Global_Optimization_19.pdf)] [[presentation](https://shuvomoy.github.io/site/Presentations/LIDS_2020_student_conference/LIDS_2020_student_conference.pdf)]
 
@@ -74,12 +72,14 @@ I obtained my M.A.Sc. (GPA 4.00/4.00) from the [ECE Department,](https://www.ece
 ## Teaching
 
 - 15.S08: Optimization of Energy Systems (Spring 2022)
-
+- 15.S60: Computing in Optimization and Statistics (2022) 
+  * Instructor for the advanced optimization session [[Jupyter notebook 1](https://nbviewer.org/github/Shuvomoy/MIT_IAP_2022_15_S60_Advanced_Optimization_Session_Shuvo/blob/main/IAP%202022%20Advanced%20Optimization%20Session%201%20Convex.ipynb)] [[Jupyter notebook 2](https://nbviewer.org/github/Shuvomoy/MIT_IAP_2022_15_S60_Advanced_Optimization_Session_Shuvo/blob/main/IAP%202022%20Advanced%20Optimization%20Session%202%20MILP.ipynb)] [[Student feedback](https://shuvomoy.github.io/site/Teaching/IAP_2022_Teaching_Feedback_Shuvo.mhtml)]
 - [15.093: Optimization Methods](https://shuvomoy.github.io/site/Teaching/optimization_methods_syllabus2020.pdf) (Fall 2020)
   - Teaching assistant for a course that aims to provide masters students with a unified overview of the main algorithms and areas of application in optimization.
   - Duties: Assisting students, leading recitations, writing and marking assignments and exams.
 
 ## Cumulative GPA
+
 5.00/5.00
 
 ## Courses taken
