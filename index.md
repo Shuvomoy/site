@@ -46,10 +46,10 @@ I obtained my M.A.Sc. (GPA 4.00/4.00) from the [ECE Department,](https://www.ece
 
 ## Talks
 
-* `NExOS.jl`  for Nonconvex Exterior-point Operator Splitting [[Youtube video](https://www.youtube.com/watch?v=SWQnAQmeVUg&ab_channel=TheJuliaProgrammingLanguage)]
+* `NExOS.jl`  for Nonconvex Exterior-point Optimization [[Youtube video](https://www.youtube.com/watch?v=SWQnAQmeVUg&ab_channel=TheJuliaProgrammingLanguage)]
   *  [Juliacon 2021](https://juliacon.org/2021/) 
 
-- Exterior-point Operator Splitting for Nonconvex Learning [[Slides](/assets/Sozi_presentations/INFORMS_Annual_Meeting_2020_presentation.html)]
+- Exterior-point Optimization for Nonconvex Learning [[Slides](/assets/Sozi_presentations/INFORMS_Annual_Meeting_2020_presentation.html)]
   - Seoul National University, November 17, 2020 (talk given to Professor [Ernest Ryu](http://www.math.snu.ac.kr/~ernestryu/)'s research group)
   - INFORMS Annual Meeting, November 10, 2020
   - MIT LIDS student conference, January 2021
@@ -71,7 +71,9 @@ I obtained my M.A.Sc. (GPA 4.00/4.00) from the [ECE Department,](https://www.ece
 
 ## Teaching
 
-- 15.S08: Optimization of Energy Systems (Spring 2022)
+- [15.S08: Optimization of Energy Systems](https://shuvomoy.github.io/site/Teaching/optimization_methods_syllabus2020.pdf) (Spring 2022)
+  * Teaching assistant for a course that aims to aims to lead PhD or advanced master students to the forefront of energy system research.
+  * Duties: Developing `Julia` implementations of next generation power system models, assisting students, leading recitations, writing and marking assignments and exams, 
 - 15.S60: Computing in Optimization and Statistics (2022) 
   * Instructor for the advanced optimization session [[Jupyter notebook 1](https://nbviewer.org/github/Shuvomoy/MIT_IAP_2022_15_S60_Advanced_Optimization_Session_Shuvo/blob/main/IAP%202022%20Advanced%20Optimization%20Session%201%20Convex.ipynb)] [[Jupyter notebook 2](https://nbviewer.org/github/Shuvomoy/MIT_IAP_2022_15_S60_Advanced_Optimization_Session_Shuvo/blob/main/IAP%202022%20Advanced%20Optimization%20Session%202%20MILP.ipynb)] [[Student feedback](https://shuvomoy.github.io/site/Teaching/IAP_2022_Teaching_Feedback_Shuvo.mhtml)]
 - [15.093: Optimization Methods](https://shuvomoy.github.io/site/Teaching/optimization_methods_syllabus2020.pdf) (Fall 2020)
