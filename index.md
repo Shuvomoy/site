@@ -75,7 +75,7 @@ I obtained my M.A.Sc. (GPA 4.00/4.00) from the [ECE Department,](https://www.ece
 
 ## Teaching
 
-- [15.S08: Optimization of Energy Systems](https://shuvomoy.github.io/site/Teaching/optimization_methods_syllabus2020.pdf) (Spring 2022)
+- [15.S08: Optimization of Energy Systems](https://shuvomoy.github.io/site/Teaching/15.S08_Optimization_of_Energy_Systems_Syllabus_2022.pdf) (Spring 2022)
   * Teaching assistant for a course that aims to aims to lead PhD or advanced master students to the forefront of energy system research.
   * Duties: Developing `Julia` implementations of next generation power system models, assisting students, leading recitations, writing and marking assignments and exams.
 - 15.S60: Computing in Optimization and Statistics (2022) 
