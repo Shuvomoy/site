@@ -26,6 +26,8 @@ Scholar</a></p>
 
 Hello world! I am a third year Ph.D. student at the [Operations Research Center](https://orc.mit.edu/) at [MIT](http://www.mit.edu/), advised by Professor [Bart Van Parys](http://web.mit.edu/vanparys/www/index.html).
 
+My research focuses on developing efficient algorithms for large-scale optimization. Recently, working with Professor Bart Van Parys and Professor [Ernest K. Ryu](http://www.math.snu.ac.kr/~ernestryu/), I have proposed [BnB-PEP](http://www.optimization-online.org/DB_HTML/2022/03/8819.html), which is a unified methodology to construct optimal first-order algorithms for convex and nonconvex optimization.
+
 I obtained my M.A.Sc. (GPA 4.00/4.00) from the [ECE Department,](https://www.ece.utoronto.ca/) [University of Toronto](https://www.utoronto.ca/) in 2016. After that, I worked as a researcher at the Research & Technology Department of [Thales Canada](https://www.thalesgroup.com/en/americas/canada) for more than two and a half years. My [M.A.Sc. research work](https://www.sciencedirect.com/science/article/pii/S0191261516304830) on optimization models to compute energy-efficient railway timetables has been integrated with the largest installed base of communication based train control systems worldwide. Previously, I obtained my B.Sc. in Electrical and Electronic Engineering from [Bangladesh University of Engineering and Technology](http://www.buet.ac.bd/).
 
 ## Papers
