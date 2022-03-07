@@ -32,7 +32,7 @@ I obtained my M.A.Sc. (GPA 4.00/4.00) from the [ECE Department,](https://www.ece
 
 ## Papers
 
-- **Shuvomoy Das Gupta**, Bart P.G. Van Parys, and [Ernest K. Ryu](http://www.math.snu.ac.kr/~ernestryu/), “[Branch-and-Bound Performance Estimation Programming: A Unified Methodology for Constructing Optimal Optimization Methods](http://www.optimization-online.org/DB_HTML/2022/03/8819.html)”, 2022. [[pdf](http://www.optimization-online.org/DB_FILE/2022/03/8819.pdf)] [[code](https://github.com/Shuvomoy/BnB-PEP-code)] 
+- **Shuvomoy Das Gupta**, Bart P.G. Van Parys, and Ernest K. Ryu, “[Branch-and-Bound Performance Estimation Programming: A Unified Methodology for Constructing Optimal Optimization Methods](http://www.optimization-online.org/DB_HTML/2022/03/8819.html)”, 2022. [[pdf](http://www.optimization-online.org/DB_FILE/2022/03/8819.pdf)] [[code](https://github.com/Shuvomoy/BnB-PEP-code)] 
 
 - **Shuvomoy Das Gupta**, [Bartolomeo Stellato](https://stellato.io/), and Bart P.G. Van Parys, “[Exterior-point Optimization for Nonconvex Learning](https://arxiv.org/abs/2011.04552)”, 2021. [[pdf](http://www.optimization-online.org/DB_FILE/2020/11/8099.pdf)] [[NExOS.jl Julia package](https://github.com/Shuvomoy/NExOS.jl)] [[INFORMS 2020 Presentation](/assets/Sozi_presentations/INFORMS_Annual_Meeting_2020_presentation.html)]
 
@@ -77,9 +77,9 @@ I obtained my M.A.Sc. (GPA 4.00/4.00) from the [ECE Department,](https://www.ece
 
 - [15.S08: Optimization of Energy Systems](https://shuvomoy.github.io/site/Teaching/optimization_methods_syllabus2020.pdf) (Spring 2022)
   * Teaching assistant for a course that aims to aims to lead PhD or advanced master students to the forefront of energy system research.
-  * Duties: Developing `Julia` implementations of next generation power system models, assisting students, leading recitations, writing and marking assignments and exams, 
+  * Duties: Developing `Julia` implementations of next generation power system models, assisting students, leading recitations, writing and marking assignments and exams.
 - 15.S60: Computing in Optimization and Statistics (2022) 
-  * Instructor for the advanced optimization session [[Jupyter notebook 1](https://nbviewer.org/github/Shuvomoy/MIT_IAP_2022_15_S60_Advanced_Optimization_Session_Shuvo/blob/main/IAP%202022%20Advanced%20Optimization%20Session%201%20Convex.ipynb)] [[Jupyter notebook 2](https://nbviewer.org/github/Shuvomoy/MIT_IAP_2022_15_S60_Advanced_Optimization_Session_Shuvo/blob/main/IAP%202022%20Advanced%20Optimization%20Session%202%20MILP.ipynb)] [[Student feedback](https://shuvomoy.github.io/site/Teaching/IAP_2022_Teaching_Feedback_Shuvo.mhtml)]
+  * Instructor for the advanced optimization session. [[Jupyter notebook 1](https://nbviewer.org/github/Shuvomoy/MIT_IAP_2022_15_S60_Advanced_Optimization_Session_Shuvo/blob/main/IAP%202022%20Advanced%20Optimization%20Session%201%20Convex.ipynb)] [[Jupyter notebook 2](https://nbviewer.org/github/Shuvomoy/MIT_IAP_2022_15_S60_Advanced_Optimization_Session_Shuvo/blob/main/IAP%202022%20Advanced%20Optimization%20Session%202%20MILP.ipynb)] [[Student feedback](https://shuvomoy.github.io/site/Teaching/IAP_2022_Teaching_Feedback_Shuvo.pdf)]
 - [15.093: Optimization Methods](https://shuvomoy.github.io/site/Teaching/optimization_methods_syllabus2020.pdf) (Fall 2020)
   - Teaching assistant for a course that aims to provide masters students with a unified overview of the main algorithms and areas of application in optimization.
   - Duties: Assisting students, leading recitations, writing and marking assignments and exams.
