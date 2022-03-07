@@ -30,6 +30,7 @@ I obtained my M.A.Sc. (GPA 4.00/4.00) from the [ECE Department,](https://www.ece
 
 ## Papers
 
+* **Shuvomoy Das Gupta**, Bart P.G. Van Parys, and [Ernest K. Ryu](http://www.math.snu.ac.kr/~ernestryu/), “[Branch-and-Bound Performance Estimation Programming: A Unified Methodology for Constructing Optimal Optimization Methods](http://www.optimization-online.org/DB_HTML/2022/03/8819.html)”, 2022. [[http://www.optimization-online.org/DB_FILE/2022/03/8819.pdf](http://www.optimization-online.org/DB_FILE/2020/11/8099.pdf)] [[code](https://github.com/Shuvomoy/BnB-PEP-code)] 
 * **Shuvomoy Das Gupta**, Bartolomeo Stellato, and Bart Van Parys, “[Exterior-point Optimization for Nonconvex Learning](https://arxiv.org/abs/2011.04552)”, 2020. [[pdf](http://www.optimization-online.org/DB_FILE/2020/11/8099.pdf)] [[NExOS.jl Julia package](https://github.com/Shuvomoy/NExOS.jl)] [[INFORMS 2020 Presentation](/assets/Sozi_presentations/INFORMS_Annual_Meeting_2020_presentation.html)]
 
 - **Shuvomoy Das Gupta** and Lacra Pavel, “[On seeking efficient Pareto optimal points in multi-player minimum cost flow problems with application to transportation systems](https://link.springer.com/article/10.1007/s10898-019-00750-9)”, in the *Journal of Global Optimization* 74 (2019): 523-548. [[pdf](https://shuvomoy.github.io/site/Papers/Journal_of_Global_Optimization_19.pdf)] [[presentation](https://shuvomoy.github.io/site/Presentations/LIDS_2020_student_conference/LIDS_2020_student_conference.pdf)]
