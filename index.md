@@ -15,7 +15,7 @@
 Technology</a><br />
         Email:<a href="mailto:sdgupta@mit.edu"> sdgupta@mit.edu</a><br />
             <a
-        href="https://scholar.google.ca/citations?user=SOrTYXsAAAAJ&amp;hl=en">Google
+        href="https://scholar.google.com/citations?user=SOrTYXsAAAAJ&hl=en">Google
 Scholar</a></p>
     <div style="clear: both"></div>      
   </div>
