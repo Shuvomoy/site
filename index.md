@@ -32,7 +32,7 @@ I obtained my M.A.Sc. (GPA 4.00/4.00) from the [ECE Department,](https://www.ece
 
 ## Papers
 
-- **Shuvomoy Das Gupta**, Bart P.G. Van Parys, and Ernest K. Ryu, “[Branch-and-Bound Performance Estimation Programming: A Unified Methodology for Constructing Optimal Optimization Methods](http://www.optimization-online.org/DB_HTML/2022/03/8819.html)”, 2022. [[pdf](http://www.optimization-online.org/DB_FILE/2022/03/8819.pdf)] [[code](https://github.com/Shuvomoy/BnB-PEP-code)] 
+- **Shuvomoy Das Gupta**, Bart P.G. Van Parys, and Ernest K. Ryu, “[Branch-and-Bound Performance Estimation Programming: A Unified Methodology for Constructing Optimal Optimization Methods](http://www.optimization-online.org/DB_HTML/2022/03/8819.html)”, 2022. [[pdf](https://arxiv.org/pdf/2203.07305.pdf)] [[code](https://github.com/Shuvomoy/BnB-PEP-code)] 
 
 - **Shuvomoy Das Gupta**, [Bartolomeo Stellato](https://stellato.io/), and Bart P.G. Van Parys, “[Exterior-point Optimization for Nonconvex Learning](https://arxiv.org/abs/2011.04552)”, 2021. [[pdf](http://www.optimization-online.org/DB_FILE/2020/11/8099.pdf)] [[NExOS.jl Julia package](https://github.com/Shuvomoy/NExOS.jl)] [[INFORMS 2020 Presentation](/assets/Sozi_presentations/INFORMS_Annual_Meeting_2020_presentation.html)]
 
