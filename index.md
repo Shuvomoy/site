@@ -5,17 +5,16 @@
 ~~~
 <div class="row">
   <div class="container">
-    <img class="left" <img style="width: 251px; height: 320px;"
- src="/assets/image_2019.png" alt="sdg2019">
-    <p> <br /> <br /> <br /> <br /> <br />
+    <img class="left" <img style="width: 400px; height: 254px;"
+ src="/assets/image_2022.png" alt="sdg2019">
+    <p> <br /> <br /> <br />
         Shuvomoy Das Gupta  <br />
         Ph.D. Student<br />
         <a href="https://orc.mit.edu/">Operations Research Center</a><br />
-        <a href="http://www.mit.edu/">Massachusetts Institute of
-Technology</a><br />
+        <a href="http://www.mit.edu/">MIT</a><br />
         Email:<a href="mailto:sdgupta@mit.edu"> sdgupta@mit.edu</a><br />
             <a
-        href="https://scholar.google.com/citations?user=SOrTYXsAAAAJ&hl=en">Google
+        href="https://scholar.google.com/citations?hl=en&user=SOrTYXsAAAAJ&view_op=list_works&sortby=pubdate">Google
 Scholar</a></p>
     <div style="clear: both"></div>      
   </div>
@@ -26,13 +25,13 @@ Scholar</a></p>
 
 Hello world! I am a third year Ph.D. student at the [Operations Research Center](https://orc.mit.edu/) at [MIT](http://www.mit.edu/), advised by Professor [Bart Van Parys](http://web.mit.edu/vanparys/www/index.html).
 
-My research focuses on developing efficient algorithms for large-scale optimization. Recently, working with Professor Bart Van Parys and Professor [Ernest K. Ryu](http://www.math.snu.ac.kr/~ernestryu/), I have proposed [BnB-PEP](http://www.optimization-online.org/DB_HTML/2022/03/8819.html), which is the first unified methodology to construct optimal first-order algorithms for convex and nonconvex optimization.
+My research focuses on developing efficient algorithms for large-scale optimization. Recently, working with Professor Bart Van Parys and Professor [Ernest K. Ryu](http://www.math.snu.ac.kr/~ernestryu/), I have proposed [BnB-PEP](https://arxiv.org/abs/2203.07305), which is the first unified methodology to construct optimal first-order algorithms for convex and nonconvex optimization.
 
 I obtained my M.A.Sc. (GPA 4.00/4.00) from the [ECE Department,](https://www.ece.utoronto.ca/) [University of Toronto](https://www.utoronto.ca/) in 2016. After that, I worked as a researcher at the Research & Technology Department of [Thales Canada](https://www.thalesgroup.com/en/americas/canada) for almost three years. My [M.A.Sc. research work](https://www.sciencedirect.com/science/article/pii/S0191261516304830) on optimization models to compute energy-efficient railway timetables has been integrated with the largest installed base of communication based train control systems worldwide. Previously, I obtained my B.Sc. in Electrical and Electronic Engineering from [Bangladesh University of Engineering and Technology](http://www.buet.ac.bd/).
 
 ## Papers
 
-- **Shuvomoy Das Gupta**, Bart P.G. Van Parys, and Ernest K. Ryu, “[Branch-and-Bound Performance Estimation Programming: A Unified Methodology for Constructing Optimal Optimization Methods](http://www.optimization-online.org/DB_HTML/2022/03/8819.html)”, 2022. [[pdf](https://arxiv.org/pdf/2203.07305.pdf)] [[code](https://github.com/Shuvomoy/BnB-PEP-code)] 
+- **Shuvomoy Das Gupta**, Bart P.G. Van Parys, and Ernest K. Ryu, “[Branch-and-Bound Performance Estimation Programming: A Unified Methodology for Constructing Optimal Optimization Methods](https://arxiv.org/abs/2203.07305)”, 2022. [[pdf](https://arxiv.org/pdf/2203.07305.pdf)] [[code](https://github.com/Shuvomoy/BnB-PEP-code)] 
 
 - **Shuvomoy Das Gupta**, [Bartolomeo Stellato](https://stellato.io/), and Bart P.G. Van Parys, “[Exterior-point Optimization for Nonconvex Learning](https://arxiv.org/abs/2011.04552)”, 2021. [[pdf](http://www.optimization-online.org/DB_FILE/2020/11/8099.pdf)] [[NExOS.jl Julia package](https://github.com/Shuvomoy/NExOS.jl)] [[INFORMS 2020 Presentation](/assets/Sozi_presentations/INFORMS_Annual_Meeting_2020_presentation.html)]
 
